@@ -40,7 +40,9 @@ This will:
 
 ## See also
 
+- [replicate.com/ideogram-ai/ideogram-v2-turbo](https://replicate.com/ideogram-ai/ideogram-v2-turbo) - Turbo version of the model
+- [replicate.com/ideogram-ai/ideogram-v2](https://replicate.com/ideogram-ai/ideogram-v2) - Full version of the model
 - [Ideogram v2 inpainting on Replicate](https://replicate.com/blog/ideogram-v2-inpainting) - blog post announcing Ideogram v2 inpainting on Replicate
-- [Replicate Playground](https://replicate.com/playground), where you can run multiple inpainting models right in the browser
-- [Inpainter.app](https://github.com/replicate/inpainter) - Open-source Next.js app for inpainting images.
-- [Outpainter.app](https://github.com/replicate/outpainter) - Open-source Nuxt.js app for extending images beyond their original canvas.
+- [Replicate Playground](https://replicate.com/playground) - Web-based tool for inpainting images right on replicate.com
+- [Inpainter.app](https://github.com/replicate/inpainter) - Open-source Next.js app for inpainting images
+- [Outpainter.app](https://github.com/replicate/outpainter) - Open-source Nuxt.js app for extending images beyond their original canvas
