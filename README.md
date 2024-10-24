@@ -46,3 +46,4 @@ This will:
 - [Replicate Playground](https://replicate.com/playground) - Web-based tool for inpainting images right on replicate.com
 - [Inpainter.app](https://github.com/replicate/inpainter) - Open-source Next.js app for inpainting images
 - [Outpainter.app](https://github.com/replicate/outpainter) - Open-source Nuxt.js app for extending images beyond their original canvas
+- [Inpainting with Stable Diffusion on Replicate](https://replicate.com/docs/guides/stable-diffusion/inpainting) - an older guide, but still useful.
