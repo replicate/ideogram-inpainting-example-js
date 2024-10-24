@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "open": "^10.1.0",
+    "replicate": "^1.0.1"
+  }
+}
